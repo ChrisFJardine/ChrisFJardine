@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisFJardine
-- 👀 I’m interested in Data, Vis, mucking around with python
-- 🌱 I’m currently learning Beautiful Soup so I can scrape the results for my Cross Country Running Club and present them in a nice vis.
+- 👀 I’m interested in Data, Vis, mucking around with python and R
+- 🌱 I’m currently learning Beautiful Soup to scrape the results for my Cross Country Running Club and present them in a nice vis.
 - 💞️ I’m looking to collaborate on ... no time for collab sorry
 - 📫 How to reach me ...chrisfjardine@gmail.com
 
